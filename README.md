@@ -13,15 +13,9 @@ ___________________![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313
 
 
 
-<!--
-**priyanshv03/priyanshv03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on AI and ML Project
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on React.js projects
+- 👯 I’m looking to collaborate on Transformer neural network architecture based projects
 - 🤔 I’m looking for help with https://github.com/jagdish4501
 - 📫 How to reach me: https://www.linkedin.com/in/jagdsih_4501
 - ⚡ Fun fact: Eat Code Sleep Repeat
