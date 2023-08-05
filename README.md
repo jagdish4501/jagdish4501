@@ -1,29 +1,30 @@
-
-
-<img src="https://user-images.githubusercontent.com/76893116/198944903-f954fd14-9f3d-49f3-8baa-3cbdc1bc9b85.jpg" height="60" >
-
-___________________![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/76893116/198943500-fef33c9e-65cd-4400-89bd-d333c04b8475.gif)
-
-### <h1 align="center"> Hey👋, This is Jagdish Patel</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdish4501&label=Profile%20views&color=0e75b6&style=flat" alt="cyberpunk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagdish4501" alt="cyberpunk" /></a> </p>
+### <h1 align="center"> Hey👋, This is Jagdish Patel</h1>
+### 👨🏻‍💻 About Me
+<hr>
 
-
-
+- 🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT)
+- 💡 Interested in working alongside like minded people enthusiastic about Software Development or developing cutting edge tech
 - 🔭 I’m currently working on AI and ML Project
-- 🌱 I’m currently workning in MERN stack and python
+- 🌱 I’m currently workning in MERN stack and python based Project
 - 👯 I’m looking to collaborate on Transformer neural network architecture based projects
-- 🤔 I’m looking for help with https://github.com/jagdish4501
-- 📫 How to reach me: https://www.linkedin.com/in/jagdsih_4501
-- ⚡ Fun fact: Eat Code Sleep Repeat
+- ✉️ You can reach out to me via email at kjagdish5796@gmail.com
+<img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
 
+### 🛠 &nbsp;Tech Stack
+<hr>
 
-
-
-<h3 align="left">🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂:</h3>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
+![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=FFA518)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 <p align="left">   
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -48,25 +49,29 @@ ___________________![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>       </a>   
-  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdish4501&show_icons=true&locale=en&layout=compact" alt="cyberpunk" /></p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdish4501&show_icons=true&locale=en" alt="cyberpunk" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+<hr>
+<p align="center">
+<a href="https://github.com/jagdish4501">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagdish4501&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagdish4501&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish4501&" alt="cyberpunk" />
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish4501&" alt="cyberpunk" /></p>
 
-  <div align="center" width="50">
+### 🤝🏻 &nbsp;Connect with Me
+<hr>
+<p align="center">
+	<a href="mailto:kjagdish5796@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/100/000000/gmail.png"/></a>
+	<a href="https://github.com/jagdish4501"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/jagdish4501/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/color/100/000000/linkedin.png"/></a>	
+	
+</p>
 
-<!-- 
-<p> -->
- <br><br> 
-<!--Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31w4w6cl5ziojjy6rznbef3mgdoi) <br>
- -->
-<img src="https://user-images.githubusercontent.com/76893116/199645696-3cb33005-a150-4dfa-9e01-773ad952d1a8.gif" width="1800" height="100">
-</div>
+
