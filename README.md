@@ -6,9 +6,7 @@
 
 - 🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT)
 - 💡 Interested in working alongside like minded people enthusiastic about Software Development or developing cutting edge tech
-- 🔭 I’m currently working on AI and ML Project
 - 🌱 I’m currently workning in MERN stack and python based Project
-- 👯 I’m looking to collaborate on Transformer neural network architecture based projects
 - ✉️ You can reach out to me via email at kjagdish5796@gmail.com
 <img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
 
