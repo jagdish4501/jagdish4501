@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 About Me
 <hr>
 
-- 🎓 I'm an Information Technology Graduate From Motilal Nehru National Institute of Technology, Allahabad (MNNIT - A)
+- 🎓 I'm an Computer Science Graduate From Motilal Nehru National Institute of Technology, Allahabad (MNNIT - A)
 - 💡 Interested in working alongside like-minded people enthusiastic about Software Development or developing cutting-edge tech
 - 🌱 I’m currently working as a DevOps Engineer at YABX and have expertise in full-stack development with React, Next.js, Node.js, MongoDB, and MySQL.
 - ✉️ You can reach out to me via email at kjagdish5796@gmail.com
