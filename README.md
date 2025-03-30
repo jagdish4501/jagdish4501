@@ -9,7 +9,8 @@
 
 - 🎓 I'm an Computer Science Graduate From Motilal Nehru National Institute of Technology, Allahabad (MNNIT - A)
 - 💡 Interested in working alongside like-minded people enthusiastic about Software Development or developing cutting-edge tech
-- 🌱 I’m currently working as a DevOps Engineer at YABX and have expertise in full-stack development with React, Next.js, Node.js, MongoDB, and MySQL.
+- 🌱 I’m currently working as a DevOps Engineer at YABX where i mostly work around Opreme server setup and deployment of Ruby on Rail , Node, Java Application and have expertise in full-stack development with React, Next.js, Node.js, MongoDB, PostgreSQL, Redis.
+- 🌱 I also work around Ansible, Terraform, AWS, Docker,HashiCorp Vault, and MLOps
 - ✉️ You can reach out to me via email at kjagdish5796@gmail.com
 <img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
 
