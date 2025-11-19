@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jagdish4501&label=Profile%20views&color=0e75b6&style=flat" alt="cyberpunk" /> 
 </p>
 
-### <h1 align="center"> Hey👋, This is Jagdish Kumar Patel</h1>
+### <h1 align="center"> Hey👋, This is Jagdish Kumar </h1>
 
 ### 👨🏻‍💻 About Me
 <hr>
