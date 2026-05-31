@@ -12,7 +12,8 @@
 - 🌱 I’m currently working as a DevOps Engineer at YABX where i mostly work around Opreme server setup and deployment of Ruby on Rail , Node, Java Application and have expertise in full-stack development with React, Next.js, Node.js, MongoDB, PostgreSQL, Redis.
 - 🌱 I also work around Ansible, Terraform, AWS, Docker,HashiCorp Vault, and MLOps
 - ✉️ You can reach out to me via email at kjagdish5796@gmail.com
-<img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
+<!-- <img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/> -->
+<img src="./metrics.svg" alt="Metrics" align="right" width="60%" height="60%"/>
 
 ### 🛠 &nbsp;Tech Stack
 <hr>
@@ -87,13 +88,6 @@
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<hr>
-<p align="center">
-<a href="https://github.com/jagdish4501">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagdish4501&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <hr>
