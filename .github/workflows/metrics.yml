@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at 00:00 UTC (05:30 Asia/Kolkata)
+    - cron: "0 0 * * *" # Daily at 00:00 UTC (05:30 IST)
   workflow_dispatch:
 
 jobs:
